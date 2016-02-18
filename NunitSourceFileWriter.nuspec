@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+    <metadata>
+        <id>NUnit.AddIn.SourceFileWriter</id>
+        <version>0.8.0</version>
+        <title>NUnit SourceFileWriter</title>
+        <authors>Markus Hastreiter</authors>
+        <licenseUrl>https://github.com/BrightLight/NUnit-SourceInfoWriter/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/BrightLight/NUnit-SourceInfoWriter</projectUrl>
+        <!--iconUrl>https://bytebucket.org/BrightLight/youcantspell/raw/66e99c708112b0771b1a5036b0fc908af793da91/YouCantSpell.png</iconUrl-->
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>AddIn for NUnit 3 that adds source info (filename, line, column) to each test result.</description>
+        <summary>AddIn for NUnit 3 that adds source info (filename, line, column) to each test result.</summary>
+        <copyright>Copyright © 2016 Markus Hastreiter</copyright>
+        <tags>nunit addin source</tags>
+        <dependencies>
+            <dependency id="NUnit.Console " version="3.0.1" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="NunitSourceFileWriter\bin\release\Microsoft.Cci.MetadataHelper.dll" target="tools\addins\Microsoft.Cci.MetadataHelper.dll" />
+        <file src="NunitSourceFileWriter\bin\release\Microsoft.Cci.MetadataModel.dll" target="tools\addins\Microsoft.Cci.MetadataModel.dll" />
+        <file src="NunitSourceFileWriter\bin\release\Microsoft.Cci.PdbReader.dll" target="tools\addins\Microsoft.Cci.PdbReader.dll" />
+        <file src="NunitSourceFileWriter\bin\release\Microsoft.Cci.PeReader.dll" target="tools\addins\Microsoft.Cci.PeReader.dll" />
+        <file src="NunitSourceFileWriter\bin\release\Microsoft.Cci.SourceModel.dll" target="tools\addins\Microsoft.Cci.SourceModel.dll" />
+        <file src="NunitSourceFileWriter\bin\release\Silverseed.NUnit.SourceInfoWriter.dll" target="tools\addins\Silverseed.NUnit.SourceInfoWriter.dll" />
+    </files>
+</package>
