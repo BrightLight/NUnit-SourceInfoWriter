@@ -18,11 +18,11 @@
         </dependencies>
     </metadata>
     <files>
-        <file src="NunitSourceFileWriter\bin\release\Microsoft.Cci.MetadataHelper.dll" target="tools\addins\Microsoft.Cci.MetadataHelper.dll" />
-        <file src="NunitSourceFileWriter\bin\release\Microsoft.Cci.MetadataModel.dll" target="tools\addins\Microsoft.Cci.MetadataModel.dll" />
-        <file src="NunitSourceFileWriter\bin\release\Microsoft.Cci.PdbReader.dll" target="tools\addins\Microsoft.Cci.PdbReader.dll" />
-        <file src="NunitSourceFileWriter\bin\release\Microsoft.Cci.PeReader.dll" target="tools\addins\Microsoft.Cci.PeReader.dll" />
-        <file src="NunitSourceFileWriter\bin\release\Microsoft.Cci.SourceModel.dll" target="tools\addins\Microsoft.Cci.SourceModel.dll" />
-        <file src="NunitSourceFileWriter\bin\release\Silverseed.NUnit.SourceInfoWriter.dll" target="tools\addins\Silverseed.NUnit.SourceInfoWriter.dll" />
+        <file src="NUnitSourceInfoWriter\bin\release\Microsoft.Cci.MetadataHelper.dll" target="tools\addins\Microsoft.Cci.MetadataHelper.dll" />
+        <file src="NUnitSourceInfoWriter\bin\release\Microsoft.Cci.MetadataModel.dll" target="tools\addins\Microsoft.Cci.MetadataModel.dll" />
+        <file src="NUnitSourceInfoWriter\bin\release\Microsoft.Cci.PdbReader.dll" target="tools\addins\Microsoft.Cci.PdbReader.dll" />
+        <file src="NUnitSourceInfoWriter\bin\release\Microsoft.Cci.PeReader.dll" target="tools\addins\Microsoft.Cci.PeReader.dll" />
+        <file src="NUnitSourceInfoWriter\bin\release\Microsoft.Cci.SourceModel.dll" target="tools\addins\Microsoft.Cci.SourceModel.dll" />
+        <file src="NUnitSourceInfoWriter\bin\release\NUnit.SourceInfoWriter.dll" target="tools\addins\NUnit.SourceInfoWriter.dll" />
     </files>
 </package>
