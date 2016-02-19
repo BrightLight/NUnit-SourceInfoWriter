@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
     <metadata>
-        <id>NUnit.AddIn.SourceFileWriter</id>
+        <id>NUnit.AddIn.SourceInfoWriter</id>
         <version>0.8.0</version>
-        <title>NUnit SourceFileWriter</title>
+        <title>NUnit SourceInfoWriter</title>
         <authors>Markus Hastreiter</authors>
         <licenseUrl>https://github.com/BrightLight/NUnit-SourceInfoWriter/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/BrightLight/NUnit-SourceInfoWriter</projectUrl>
