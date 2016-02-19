@@ -7,8 +7,8 @@
     <ProjectGuid>{FD59368C-BB1A-4106-878D-970474DCD89C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Silverseed.NUnit.SourceInfoWriter</RootNamespace>
-    <AssemblyName>Silverseed.NUnit.SourceInfoWriter</AssemblyName>
+    <RootNamespace>NUnit.SourceInfoWriter</RootNamespace>
+    <AssemblyName>NUnit.SourceInfoWriter</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

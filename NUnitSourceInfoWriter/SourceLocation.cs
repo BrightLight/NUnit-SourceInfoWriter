@@ -1,4 +1,4 @@
-﻿namespace Silverseed.NUnit.SourceInfoWriter
+﻿namespace NUnit.SourceInfoWriter
 {
   public class SourceLocation
   {

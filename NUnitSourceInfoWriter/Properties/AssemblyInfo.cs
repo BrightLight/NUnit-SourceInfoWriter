@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden 
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("NunitSourceFileWriter")]
+[assembly: AssemblyTitle("NUnitSourceInfoWriter")]
 [assembly: AssemblyDescription("AddIn for NUnit 3 that adds source info (filename, line, column) to each test result")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
