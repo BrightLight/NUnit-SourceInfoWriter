@@ -146,6 +146,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NUnitV2WithSourceInfoResultWriter.cs" />
+    <Compile Include="SourceInfoHelper.cs" />
     <Compile Include="SourceInfoWriterFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SourceLocation.cs" />
